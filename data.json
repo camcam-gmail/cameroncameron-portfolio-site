@@ -1,8 +1,8 @@
 {
-  "name": "Alex Shaw",
-  "title": "Full Stack Software Developer",
-  "bio": "Passionate about building scalable web applications and user experiences. Experienced in Python, JavaScript, and cloud technologies.",
-  "skills": ["Flask", "React", "PostgreSQL", "Node.js", "Express", "MongoDB"],
+  "name": "Cameron Cameron",
+  "title": "Principal Architect",
+  "bio": "I wear many hats! Oracle DBA, Linux Sysadmin, VMware, AWS, Oracle Licensing....",
+  "skills": ["Oracle Database", "Oracle E-Business Suite", "VMware", "AWS", "Linux", "Oracle Licensing"],
   "projects": [
     {
       "name": "Note Taker",
@@ -30,17 +30,17 @@
     }
   ],
   "contact": {
-    "email": "alex.developer@email.com"
+    "email": "cccameron@mail.mccneb.edu"
   },
   "social": [
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/alexdeveloper",
+      "url": "www.linkedin.com/in/cameron-cameron-06ba4849",
       "icon": "bi-linkedin"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/yourusername",
+      "url": "https://github.com/camcam-gmail",
       "icon": "bi-github"
     }
   ],
